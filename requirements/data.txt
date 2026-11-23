@@ -1,0 +1,6 @@
+# 01_data/build_train10k.py (tourne dans n'importe quel venv)
+duckdb>=1.0
+pandas>=2.0
+pyarrow>=14
+pillow
+huggingface_hub     # seulement pour --download-shards

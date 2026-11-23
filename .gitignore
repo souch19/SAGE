@@ -1,0 +1,14 @@
+artifacts/
+reports/
+logs/
+*.pkl
+*.tmp
+*.pt
+*.jpg
+*.part
+__pycache__/
+*.pyc
+venv*/
+.venv/
+OAR.*
+*.tar.gz
